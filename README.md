@@ -132,3 +132,11 @@ The main idea of the project is that batch correction should be judged by more t
 - avoid overcorrecting the data so that true biological structure is erased.
 
 The final evaluation found that Seurat CCA gave the strongest technical mixing in this analysis, while FastMNN and MNN provided useful comparison points for understanding the tradeoff between batch alignment and biological preservation.
+
+## Team and Program
+
+This project was completed through the [University of Toronto Statistical Sciences Research Program (UTSSRP)](https://www.statistics.utoronto.ca/UTSSRP). The program gives undergraduate students the opportunity to collaborate on research projects with guidance from faculty members and doctoral mentors, ending with project presentations and a poster session.
+
+As part of UTSSRP, our team studied batch-effect correction in pancreatic single-cell RNA-seq data. We developed and applied distance-based diagnostics to compare correction methods, asking not only whether batches mix well after correction, but also whether meaningful biological structure is preserved.
+
+![Project team](assets/team_photo.jpg)
