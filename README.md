@@ -135,8 +135,14 @@ The final evaluation found that Seurat CCA gave the strongest technical mixing i
 
 ## Team and Program
 
-This project was completed through the [University of Toronto Statistical Sciences Research Program (UTSSRP)](https://www.statistics.utoronto.ca/UTSSRP). The program gives undergraduate students the opportunity to collaborate on research projects with guidance from faculty members and doctoral mentors, ending with project presentations and a poster session.
+This project was completed through the [University of Toronto Statistical Sciences Research Program (UTSSRP)](https://www.statistics.utoronto.ca/UTSSRP), a summer research program in the Department of Statistical Sciences at the University of Toronto. The program gives undergraduate students the opportunity to work on research projects in statistics, data science, machine learning, and applied quantitative science while receiving mentorship from faculty members and doctoral students.
 
-As part of UTSSRP, our team studied batch-effect correction in pancreatic single-cell RNA-seq data. We developed and applied distance-based diagnostics to compare correction methods, asking not only whether batches mix well after correction, but also whether meaningful biological structure is preserved.
+As part of UTSSRP, our team studied batch-effect correction in pancreatic single-cell RNA-seq data. We developed and applied distance-based diagnostics to compare correction methods, asking not only whether batches mix well after correction, but also whether meaningful biological cell-type structure is preserved.
 
-![Project team](assets/team_photo.jpg)
+**Faculty Supervisor:** Elena Tuzhilina  
+**PhD Mentor:** William Groff  
+
+**Team Members:**
+- Taher Alabbar
+- Paige Braney
+- Kian Dianati
